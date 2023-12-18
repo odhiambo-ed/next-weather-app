@@ -13,7 +13,7 @@
 ## Technologies and Languages Used
 
 
-![Next](https://icongr.am/devicon/next-original.svg?size=100&color=currentColor) Next
+[] NextJS
 
 ## Features
 
